@@ -1,0 +1,2 @@
+# Didakticki-materijal-u-nastavi-matematike
+Izrada digitalnog repozitorija manjeg opsega s video lekcijama o primjeni didaktičkog materijala pri učenju i poučavanju matematike provodi se u sklopu projekta Sinergija tehnologije i znanosti: STEM obrazovanje i inteligentne metode (SINTEZA). Aktivnost je sufinancirana iz Mehanizma za oporavak i otpornost (RRF; izvor 581-institucionalni istraživački projekti) u okviru Nacionalnog plana oporavka i otpornosti Republike Hrvatske, financiranog od strane Europske unije - NextGenerationEU.
